@@ -25,4 +25,4 @@ This repository contains the foundation for the Gloves Up Boxing Gym website. Gl
 - **Stories & News Page:** Organisational updates, youth success stories, photos.
 - **Contact Page:** Map, WhatsApp, phone, email, and social media links.
 
-## Sitemap
+
